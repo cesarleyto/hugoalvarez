@@ -1,11 +1,11 @@
 {
-  "title": "¿Es momento de su esquema de vacunación?",
-  "description": "Mantén a tus pequeños protegidos contra enfermedades prevenibles. Contamos con todas las vacunas del esquema nacional y biológicos complementarios sin dolor.",
-  "image": "/assets/images/image.jpg.webp.jpeg",
+  "title": "Bitácora de Proyectos",
+  "description": "El registro detallado de cada iniciativa en desarrollo. Explora nuestro archivo estratégico para revisar los lineamientos, guiones, copys y la planeación completa de cada táctica de nuestra campaña. Todo documentado paso a paso.",
+  "image": "/assets/images/destacado.jpeg",
   "botones": [
     {
-      "texto": "Revisar Cartilla",
-      "url": "/blog/importancia-vacunas-primer-ano"
+      "texto": "Explorar Proyectos",
+      "url": "/blog/"
     }
   ]
 }

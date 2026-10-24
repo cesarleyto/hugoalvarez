@@ -1,11 +1,11 @@
 {
-  "title": "Cuidados para tu pequeño",
-  "description": "Atención pediátrica integral desde los primeros días de vida hasta la adolescencia. Tu tranquilidad y el sano desarrollo de tus pequeños son mi máxima prioridad.",
-  "image": "/assets/images/Arzt.jpg",
+  "title": "Hugo Álvarez por Salina Cruz",
+  "description": "Bienvenido al centro de control creativo del proyecto de Hugo Álvarez. Porque una campaña ganadora no se improvisa; se diseña. Este es nuestro espacio interno para centralizar, revisar y aprobar los materiales visuales, la estrategia de contenidos y la identidad que pondrá a Salina Cruz en movimiento.",
+  "image": "/assets/images/hugo.jpg",
   "botones": [
     {
-      "texto": "Conocer Servicios",
-      "url": "/sobre-mi"
+      "texto": "Manifiesto",
+      "url": "/manifiesto"
     }
   ]
 }

@@ -2,22 +2,22 @@
   "showSocials": true,
   "enlaces": [
     {
-      "texto": "Inicio",
+      "texto": "INICIO",
       "url": "/"
     },
     {
-      "texto": "Sobre Mi",
-      "url": "/sobre-mi"
+      "texto": "MANIFIESTO",
+      "url": "/manifiesto"
     },
     {
-      "texto": "Blog",
+      "texto": "PROYECTOS",
       "url": "/blog"
     }
   ],
   "botones": [
     {
-      "texto": "¡Agenda vía WhatsApp!",
-      "url": "https://wa.me/529710000000"
+      "texto": "Facebook",
+      "url": "https://www.facebook.com/profile.php?id=61593878587267"
     }
   ]
 }
