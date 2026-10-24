@@ -19,6 +19,5 @@ Hoy, los políticos y oportunistas de siempre ya salieron de su alcantarilla; un
 Pero, en cambio, yo sí sé hacer las cosas; yo voy a administrar Salina Cruz. Vamos a digitalizar trámites, gestionar obras con transparencia, atender las causas que originan inseguridad, atraer inversión y acabar por fin con las clausuras y las carísimas licencias de funcionamiento.
 
 **EN POCAS PALABRAS,**  
-**EL PLAN CHINGÓN PARA SALVAR SALINA CRUZ, LO TRAIGO YO,**  
-**LA MERA VERDURA DEL CALDO.**  
+**EL PLAN CHINGÓN PARA SALVAR SALINA CRUZ, LO TRAIGO YO PUES,**  
 **Y JUNTOS PONDREMOS SALINA CRUZ EN MOVIMIENTO.**
