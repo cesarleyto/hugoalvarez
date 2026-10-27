@@ -11,7 +11,7 @@ heroImage: /assets/images/blog/hugoalvarezc.jpg
 
 Ya tenemos definidos los recursos clave para vestir las redes sociales: foto de perfil y portadas oficiales. Para esta etapa, la línea gráfica se apoya en el color institucional naranja, generando asociación directa con el partido, pero utilizando estratégicamente el logo ciudadano (sin el águila) para mantenernos dentro del marco legal permitido antes de los tiempos de precampaña. 
 
-[![](/assets/images/blog/portada.jpg)](assets/images/blog/portada.jpg)
+[![](/assets/images/blog/portada.jpg)](/assets/images/blog/portada.jpg)
 
 El rótulo principal destaca de manera clara y formal el nombre del "Ing. Hugo Álvarez Carvajal". El elemento narrativo más importante de esta composición es el fondo: la Playa Abierta de Salina Cruz. No solo se eligió por ser nuestro emblemático malecón y un punto turístico clave del puerto, sino por su profundo significado personal y de posicionamiento.
 
