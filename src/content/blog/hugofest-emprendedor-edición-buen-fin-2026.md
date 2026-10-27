@@ -1,6 +1,6 @@
 ---
-title: HUGOFEST EMPRENDEDOR (Edición Buen Fin 2026)
-description: 'Con el firme objetivo de seguir apoyando el comercio local, me entusiasma invitarle a participar como expositor/a en nuestro próximo evento: HUGOFEST: EMPRENDEDOR - Edición Buen Fin 2026.'
+title: HugoFest Emprendedor (Edición Buen Fin 2026)
+description: 'Con el firme objetivo de seguir apoyando el comercio local, me entusiasma invitarle a participar como expositor/a en nuestro próximo evento: HugoFest Emprendedor  - Edición Buen Fin 2026.'
 author: César Leyto
 category: HugoFest
 pubDate: 2026-10-24
