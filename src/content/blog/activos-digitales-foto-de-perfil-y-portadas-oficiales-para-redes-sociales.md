@@ -1,6 +1,6 @@
 ---
 title: 'Activos Digitales: Foto de Perfil y Portadas Oficiales para Redes Sociales'
-description: Aprobación y entrega de los recursos visuales principales para la configuración de las redes sociales del Ing. Hugo Álvarez Carvajal. Se detalla la justificación gráfica, el uso de la identidad ciudadana y el arraigo local reflejado en la composición.
+description: Aprobación y entrega de los recursos visuales principales para la configuración de las redes sociales del Ing. Hugo Álvarez Carbajal. Se detalla la justificación gráfica, el uso de la identidad ciudadana y el arraigo local reflejado en la composición.
 author: César Leyto
 category: Manifiesto
 pubDate: 2026-10-25

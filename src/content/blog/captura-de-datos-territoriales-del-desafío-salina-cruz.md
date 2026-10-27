@@ -27,7 +27,7 @@ A continuación, el texto exacto que recibirán los participantes para detonar 
 
 Hace unos días vivimos toda la adrenalina en la primera edición del Desafío Salina Cruz y quiero agradecerte de corazón por haber participado y dejado todo tu esfuerzo en la arena. 💪🏖️
 
-Soy el Ing. Hugo Álvarez Carvajal, organizador de este evento. Mi compromiso es y seguirá siendo fomentar el deporte y el sano esparcimiento en nuestro puerto.
+Soy el Ing. Hugo Álvarez Carbajal, organizador de este evento. Mi compromiso es y seguirá siendo fomentar el deporte y el sano esparcimiento en nuestro puerto.
 
 Para lograr que nuestras próximas ediciones sean aún mejores, me ayudaría muchísimo conocer tu experiencia. Te invito a responder esta breve encuesta de satisfacción (solo te tomará un par de minutos):
 
