@@ -1,9 +1,10 @@
 ---
 title: 'Manifiesto: La cultura del esfuerzo'
-slug: manifiesto
 description: Soy Hugo Álvarez y a mí nadie me regaló nada. Conoce mi historia, mis raíces y el plan para administrar Salina Cruz.
+author: César Leyto
+category: Manifiesto
 pubDate: 2026-10-23
-heroImage: /assets/images/hugo.jpg
+heroImage: /assets/images/hugo2.jpg
 ---
 
 ![Logo de Campaña](/assets/logo/logo.svg)

@@ -169,3 +169,34 @@ collections:
       - { label: "Fecha de publicación", name: "pubDate", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
       - { label: "Imagen de Portada (Opcional)", name: "heroImage", widget: "image", required: false }
       - { label: "Contenido del Post", name: "body", widget: "markdown" }
+
+  # ==========================================
+  # 4. HERRAMIENTAS Y GESTIÓN (Parrilla)
+  # ==========================================
+  - name: "parrilla_gestion"
+    label: "📅 Parrilla de Contenido"
+    editor:
+      preview: false
+    files:
+      - label: "Administrar Parrilla"
+        name: "parrilla"
+        file: "src/data/parrilla.json"
+        fields:
+          - { label: "Título de la Parrilla", name: "title", widget: "string", default: "Parrilla de Contenido" }
+          - { label: "Descripción", name: "description", widget: "string", default: "Deadlines: Material para el diseñador", hidden: true, required: false }
+          - label: "Deadlines / Material para el diseñador"
+            name: "deadlines"
+            widget: "list"
+            fields:
+              - { label: "Fecha Límite", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false, hint: "Selecciona la fecha del deadline" }
+              - { label: "Indicación / Tarea", name: "task", widget: "text", hint: "Ej: Foto del altar: Entregar foto..." }
+          - label: "Publicaciones / Posts"
+            name: "posts"
+            widget: "list"
+            fields:
+              - { label: "Fecha de Publicación", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false, hint: "Selecciona el día en el calendario" }
+              - { label: "Tipo de Contenido", name: "type", widget: "select", options: ["Imagen fija", "Carrusel de imágenes", "Video"] }
+              - { label: "Categoría", name: "category", widget: "select", options: ["Efeméride", "Posicionamiento Personal", "Hugo Fest", "Colaboración"] }
+              - { label: "Título del Post", name: "title", widget: "string" }
+              - { label: "Descripción / Instrucción", name: "description", widget: "text" }
+              - { label: "Nota de Intención", name: "note", widget: "text", required: false, hint: "Objetivo o estrategia detrás del posteo" }

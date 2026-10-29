@@ -1,0 +1,316 @@
+{
+  "title": "Parrilla de Contenido",
+  "description": "Deadlines: Material para el diseñador",
+  "deadlines": [
+    {
+      "date": "2026-10-31",
+      "task": "Foto del altar: Entregar la foto del papá y Hugo. ¿Que le gustaba comer y beber? ¿Hace cuanto murio? Para construir el posteo de Memorial."
+    },
+    {
+      "date": "2026-11-02",
+      "task": "Fotos trabajando en Cadereyta."
+    },
+    {
+      "date": "2026-11-07",
+      "task": "Video de invitación para el Hugo Fest."
+    },
+    {
+      "date": "2026-11-11",
+      "task": "Ajustando detalles del HugoFest desde Cadereyta. (Trabajando lejos, el corazón siempre en el puerto)"
+    },
+    {
+      "date": "2026-11-13",
+      "task": "Acuerdo con minimo 3 microinfluencers que harán los storytimes del evento, publicarán entre 17 al 19."
+    }
+  ],
+  "posts": [
+    {
+      "date": "2026-10-31",
+      "type": "Imagen fija",
+      "category": "Efeméride",
+      "title": "Calaverita de Hugo Álvarez",
+      "description": "Publicar la calaverita literaria ilustrada.",
+      "note": "Mantener tono festivo y regional con alta cercanía."
+    },
+    {
+      "date": "2026-11-01",
+      "type": "Imagen fija",
+      "category": "Efeméride",
+      "title": "Todos los santos",
+      "description": "Post conmemorativo por Todos los Santos.",
+      "note": "Respeto a las tradiciones locales."
+    },
+    {
+      "date": "2026-11-02",
+      "type": "Imagen fija",
+      "category": "Efeméride",
+      "title": "Día de Muertos",
+      "description": "Post alusivo a la festividad de Día de Muertos en el Istmo.",
+      "note": "Conexión cultural profunda con la región."
+    },
+    {
+      "date": "2026-11-02",
+      "type": "Imagen fija",
+      "category": "Hugo Fest",
+      "title": "Lanzamiento del cartel oficial",
+      "description": "Lanzamiento del primer cartel del Hugo Fest Emprendedor Buen Fin 2026 en imagen simple.",
+      "note": "Calentar motores y abrir expectativa del sistema de boletos."
+    },
+    {
+      "date": "2026-11-03",
+      "type": "Imagen fija",
+      "category": "Posicionamiento Personal",
+      "title": "Puntos clave de Hugo Álvarez",
+      "description": "Imagen con viñetas claras sobre quién es, qué hace y su perfil profesional.",
+      "note": "Construcción de perfil y autoridad."
+    },
+    {
+      "date": "2026-11-03",
+      "type": "Carrusel de imágenes",
+      "category": "Posicionamiento Personal",
+      "title": "Fotos trabajando en Cadereyta",
+      "description": "Equipo trabajando en obra y foto protagonista del ingeniero. Orgullo istmeño reparando Cadereyta.",
+      "note": "Mostrar compromiso laboral y cercanía a pesar de estar lejos."
+    },
+    {
+      "date": "2026-11-04",
+      "type": "Imagen fija",
+      "category": "Posicionamiento Personal",
+      "title": "Buzón Ciudadano",
+      "description": "Llamado a la acción invitando a entrar a la landing page a registrar sus datos y contar qué pasa en su colonia.",
+      "note": "Fomentar la participación activa de la comunidad."
+    },
+    {
+      "date": "2026-11-05",
+      "type": "Carrusel de imágenes",
+      "category": "Posicionamiento Personal",
+      "title": "Manifiesto en carrusel",
+      "description": "Post de 4 imágenes resumiendo la visión y facetas de Hugo de forma fragmentada y visual.",
+      "note": "Explicar la ideología y propuestas de valor."
+    },
+    {
+      "date": "2026-11-06",
+      "type": "Video",
+      "category": "Hugo Fest",
+      "title": "Invitación de Mario Carballido",
+      "description": "Video de Mario Carballido invitando al evento, acompañado de su confirmación.",
+      "note": "Atracción de miradas aprovechando la comunidad de Mario."
+    },
+    {
+      "date": "2026-11-06",
+      "type": "Imagen fija",
+      "category": "Hugo Fest",
+      "title": "Foto de Mario Carballido",
+      "description": "Fotografía complementaria de Mario Carballido anunciando su presencia.",
+      "note": "Reforzar el anuncio del video en formato estático."
+    },
+    {
+      "date": "2026-11-09",
+      "type": "Video",
+      "category": "Hugo Fest",
+      "title": "Video de invitación de Hugo",
+      "description": "Banderazo fuerte de la semana previa con Hugo invitando directamente al evento.",
+      "note": "Conexión directa del anfitrión con su audiencia."
+    },
+    {
+      "date": "2026-11-10",
+      "type": "Carrusel de imágenes",
+      "category": "Hugo Fest",
+      "title": "Primer bloque de emprendedores inscritos",
+      "description": "Presumir a los primeros negocios y marcas confirmadas para el Buen Fin.",
+      "note": "Incentivar a más emprendedores a unirse y registrarse."
+    },
+    {
+      "date": "2026-11-11",
+      "type": "Imagen fija",
+      "category": "Posicionamiento Personal",
+      "title": "Recordatorio del Buzón Ciudadano",
+      "description": "Queremos escucharte, cuéntanos qué pasa en tu colonia a través del enlace.",
+      "note": "Mantener viva la interacción y escucha activa."
+    },
+    {
+      "date": "2026-11-12",
+      "type": "Carrusel de imágenes",
+      "category": "Hugo Fest",
+      "title": "Cuadrícula de emprendimientos e indicaciones",
+      "description": "Mosaico de 6 en 6 con los participantes actuales y pautas para asistir.",
+      "note": "Información práctica y visualmente atractiva."
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Carrusel de imágenes",
+      "category": "Posicionamiento Personal",
+      "title": "Preparación a distancia del Hugo Fest desde Cadereyta",
+      "description": "Videoconferencia en laptop junto al equipo viendo la landing page. Lejos de casa, el plan sigue.",
+      "note": "Demostrar capacidad multitarea y compromiso absoluto."
+    },
+    {
+      "date": "2026-11-13",
+      "type": "Imagen fija",
+      "category": "Hugo Fest",
+      "title": "Conteo regresivo / último llamado",
+      "description": "Último aviso de que el evento es mañana. Emoción a tope.",
+      "note": "Generar urgencia para el arranque del festival."
+    },
+    {
+      "date": "2026-11-14",
+      "type": "Video",
+      "category": "Hugo Fest",
+      "title": "¡Día del evento! (En vivo de arranque)",
+      "description": "Transmisión en vivo y cobertura del inicio oficial del festival.",
+      "note": "Capturar la energía del momento y conectar en tiempo real."
+    },
+    {
+      "date": "2026-11-14",
+      "type": "Carrusel de imágenes",
+      "category": "Hugo Fest",
+      "title": "Galería de los mejores momentos (Parte 1)",
+      "description": "Selección fotográfica estelar del primer día de actividades.",
+      "note": "Mantener la conversación activa tras el cierre de jornada."
+    },
+    {
+      "date": "2026-11-15",
+      "type": "Carrusel de imágenes",
+      "category": "Hugo Fest",
+      "title": "Galería de los mejores momentos (Parte 2)",
+      "description": "Segunda entrega fotográfica del festival.",
+      "note": "Prolongar el impacto visual del evento."
+    },
+    {
+      "date": "2026-11-16",
+      "type": "Video",
+      "category": "Hugo Fest",
+      "title": "Video resumen del equipo",
+      "description": "Cómo se vivió el festival desde adentro con el equipo de trabajo.",
+      "note": "Humanizar el proyecto y mostrar el esfuerzo detrás de cámaras."
+    },
+    {
+      "date": "2026-11-17",
+      "type": "Video",
+      "category": "Colaboración",
+      "title": "Microinfluencer 1: Storytime en el Hugo Fest",
+      "description": "Contenido colaborativo contando la experiencia personal en el festival.",
+      "note": "Alcanzar nuevas audiencias a través de voces locales."
+    },
+    {
+      "date": "2026-11-18",
+      "type": "Video",
+      "category": "Colaboración",
+      "title": "Microinfluencer 2: Storytime en el Hugo Fest",
+      "description": "Segunda perspectiva de creadores invitados sobre el evento.",
+      "note": "Consolidar el eco digital de la semana pasada."
+    },
+    {
+      "date": "2026-11-19",
+      "type": "Video",
+      "category": "Colaboración",
+      "title": "Microinfluencer 3: Storytime en el Hugo Fest",
+      "description": "Tercera entrega de historias de creadores sobre el éxito del festival.",
+      "note": "Cierre de la ola de ruido con microinfluencers."
+    },
+    {
+      "date": "2026-11-20",
+      "type": "Imagen fija",
+      "category": "Efeméride",
+      "title": "Revolución Mexicana",
+      "description": "Conmemoración histórica nacional.",
+      "note": "Presencia institucional y cívica."
+    },
+    {
+      "date": "2026-11-22",
+      "type": "Imagen fija",
+      "category": "Efeméride",
+      "title": "Día del Músico",
+      "description": "Felicitación especial a los músicos y artistas de la región.",
+      "note": "Conexión con el gremio artístico local."
+    },
+    {
+      "date": "2026-11-23",
+      "type": "Imagen fija",
+      "category": "Efeméride",
+      "title": "Día de la Armada de México",
+      "description": "Reconocimiento a las fuerzas armadas.",
+      "note": "Relevancia costera y nacional."
+    },
+    {
+      "date": "2026-11-25",
+      "type": "Imagen fija",
+      "category": "Efeméride",
+      "title": "Día Naranja",
+      "description": "Jornada de concientización y erradicación de la violencia.",
+      "note": "Mensaje social con causa."
+    },
+    {
+      "date": "2026-12-03",
+      "type": "Imagen fija",
+      "category": "Efeméride",
+      "title": "Día Internacional de las Personas con Discapacidad",
+      "description": "Mensaje de inclusión y accesibilidad.",
+      "note": "Empatía e inclusión comunitaria."
+    },
+    {
+      "date": "2026-12-07",
+      "type": "Imagen fija",
+      "category": "Efeméride",
+      "title": "Día del Ferrocarrilero",
+      "description": "Homenaje a la historia ferroviaria.",
+      "note": "Identidad e historia local."
+    },
+    {
+      "date": "2026-12-08",
+      "type": "Imagen fija",
+      "category": "Efeméride",
+      "title": "Virgen de Juquila",
+      "description": "Festividad religiosa regional.",
+      "note": "Tradición y fe popular oaxaqueña."
+    },
+    {
+      "date": "2026-12-12",
+      "type": "Imagen fija",
+      "category": "Efeméride",
+      "title": "Virgen de Guadalupe",
+      "description": "Celebración guadalupana.",
+      "note": "Cultura y festividad nacional."
+    },
+    {
+      "date": "2026-12-24",
+      "type": "Video",
+      "category": "Efeméride",
+      "title": "Video de felicitación de Navidad",
+      "description": "Mensaje audiovisual navideño para la comunidad.",
+      "note": "Cercanía y buenos deseos decembrinos."
+    },
+    {
+      "date": "2026-12-25",
+      "type": "Imagen fija",
+      "category": "Efeméride",
+      "title": "Imagen alusiva a la Navidad",
+      "description": "Tarjeta estática festiva.",
+      "note": "Celebración de Navidad."
+    },
+    {
+      "date": "2026-12-28",
+      "type": "Imagen fija",
+      "category": "Efeméride",
+      "title": "Día de los Santos Inocentes",
+      "description": "Post tradicional de humor ligero.",
+      "note": "Cultura popular mexicana."
+    },
+    {
+      "date": "2026-12-31",
+      "type": "Video",
+      "category": "Efeméride",
+      "title": "Video de buenos deseos del fin de año",
+      "description": "Recuento y agradecimiento de cierre de año.",
+      "note": "Balance y proyección hacia el futuro."
+    },
+    {
+      "date": "2027-01-01",
+      "type": "Imagen fija",
+      "category": "Efeméride",
+      "title": "Imagen de Año Nuevo",
+      "description": "Bienvenida al nuevo ciclo.",
+      "note": "Optimismo y arranque de año."
+    }
+  ]
+}

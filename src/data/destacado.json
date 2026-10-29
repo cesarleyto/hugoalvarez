@@ -1,11 +1,11 @@
 {
-  "title": "Bitácora de Proyectos",
-  "description": "El registro detallado de cada iniciativa en desarrollo. Explora nuestro archivo estratégico para revisar los lineamientos, guiones, copys y la planeación completa de cada táctica de nuestra campaña. Todo documentado paso a paso.",
-  "image": "/assets/images/destacado.jpeg",
+  "title": "Parrilla de Contenido y Deadlines",
+  "description": "Consulta en tiempo real el calendario de publicaciones, efemérides, acciones de posicionamiento y las fechas límite (deadlines) de material para el diseñador.",
+  "image": "/assets/images/istockphoto-2206104637-612x612.jpg",
   "botones": [
     {
-      "texto": "Explorar Proyectos",
-      "url": "/blog/"
+      "texto": "Ver Parrilla",
+      "url": "/parrilla.html"
     }
   ]
 }
