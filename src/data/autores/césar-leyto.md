@@ -1,6 +1,6 @@
 ---
 name: César Leyto
-description: Diseñador Fullstack
+description: Diseñador
 avatar: /assets/images/autores/images.jpeg
 redes:
   - red: Instagram

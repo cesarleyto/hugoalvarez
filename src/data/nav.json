@@ -2,18 +2,14 @@
   "showSocials": true,
   "enlaces": [
     {
-      "texto": "INICIO",
+      "texto": "PARRILLA",
       "url": "/"
-    },
-    {
-      "texto": "PROYECTOS",
-      "url": "/blog"
     }
   ],
   "botones": [
     {
-      "texto": "PARRILLA",
-      "url": "/parrilla.html"
+      "texto": "PROYECTOS",
+      "url": "/blog"
     }
   ]
 }
