@@ -6,18 +6,14 @@
       "url": "/"
     },
     {
-      "texto": "PARRILLA",
-      "url": "/parrilla.html"
-    },
-    {
       "texto": "PROYECTOS",
       "url": "/blog"
     }
   ],
   "botones": [
     {
-      "texto": "Facebook",
-      "url": "https://www.facebook.com/profile.php?id=61593878587267"
+      "texto": "PARRILLA",
+      "url": "/parrilla.html"
     }
   ]
 }
